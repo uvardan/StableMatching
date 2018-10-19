@@ -108,5 +108,11 @@ public class Matching {
 
    }
 
+   private static int []findStableMatching(){
+       // Remove the logic from the main method and add it here 
+       int male[]= new int [10];
+   return male;
+   }
+
 
 }
